@@ -90,6 +90,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - https://whois.net/
 - https://who.is/
 - https://webramz.com/ (persian)
+- https://www.dewoweb.com (persian)
 - https://www.talahost.com/whois.htm (persian)
 - https://iranhost.com/whois/ (persian)
 
